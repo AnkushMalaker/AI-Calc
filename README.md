@@ -10,7 +10,7 @@ A Machine learning model that utilizes MACHINE LEARNING and DEEP LEARNING to pre
 | It uses Tensorflow 2      |                 |
 | It uses Keras             |                 |
 
-As you can see, the pros far outweight the cons. 
+As you can see, the pros far outweight the cons. ![party](./config/party.gif)
 # New Features!
   - Added a function to get the incorrect outputs
 

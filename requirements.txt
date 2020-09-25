@@ -106,7 +106,7 @@ spotdl==1.2.4
 spotipy==2.9.0
 streamlit==0.58.0
 tensorboard==2.1.0
-tensorflow==2.1.0
+tensorflow==2.1.2
 tensorflow-estimator==2.1.0
 tensorflow-hub==0.8.0
 termcolor==1.1.0
